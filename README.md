@@ -1,12 +1,25 @@
-# React + Vite
+# React Todo_List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ this is a very simple todo list application written using React.js and TailwindCSS used to design the page .
+ 
+## How to Run
 
-Currently, two official plugins are available:
+- STEP 1- Run following commands in your terminal.
+  ```
+  npm create vite@latest
+  ```
+- STEP 2- ( select react => javascript)
+  ```
+  npm i
+  ```
+  ```
+   npm install -D tailwindcss postcss autoprefixer
+   npx tailwindcss init -p
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  ```
+- STEP 3- replace the public and src folders with those in this repo.
 
-## Expanding the ESLint configuration
+- STEP 4- Click on the link.
+  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
