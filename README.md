@@ -1,6 +1,6 @@
 # React Todo_List
 
- this is a very simple todo list application written using React.js and TailwindCSS used to design the page .
+ this is a very simple todo list application written using React and TailwindCSS used to design the page .
  
 ## How to Run
 
